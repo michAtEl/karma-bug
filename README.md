@@ -1,1 +1,1 @@
-# karma-bug
+This project demonstrates a bug in Karma.
